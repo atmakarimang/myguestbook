@@ -35,7 +35,7 @@ Website buku tamu, yang dibuat dengan laravel versi 8
 
    ![Screenshot_3](https://user-images.githubusercontent.com/91459125/135788704-d8ca9331-92a8-41aa-a854-964d60075331.png)
    
-Untuk demo program bisa dicek disini => [My Guest Book](https://myguestbooks.000webhostapp.com/){:target="_blank"}
+Untuk demo program bisa dicek disini => [My Guest Book](https://myguestbooks.000webhostapp.com/)
 
 Note versi :
 * PHP : 7.4.23
